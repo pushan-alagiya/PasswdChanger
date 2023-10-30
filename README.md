@@ -2,6 +2,8 @@
 
 This is a simple password generator built with React.js. It allows users to generate secure passwords with various options.
 
+![image](https://github.com/pushan-alagiya/PasswdChanger/blob/main/public/Pasted%20image.png)
+
 ## Features
 
 - Generate random passwords with custom options.
