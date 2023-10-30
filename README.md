@@ -19,19 +19,19 @@ This is a simple password generator built with React.js. It allows users to gene
 git clone https://github.com/yourusername/password-generator-react.git
 ```
 
-## Navigate to the project directory:
+2. Navigate to the project directory:
 
 ```
 cd password-generator-react
 ```
 
-## Install dependencies:
+3. Install dependencies:
 
 ```
 npm install
 ```
 
-## Start the development server:
+4. Start the development server:
 
 ```
 npm run dev
